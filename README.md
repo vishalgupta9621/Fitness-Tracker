@@ -63,7 +63,7 @@ fitness-tracker/
 └── pom.xml
 ⚙️ Installation & Setup
 1️⃣ Clone Repository
-git clone https://github.com/your-username/fitness-tracker.git
+git clone <Link of this repo>
 cd fitness-tracker
 2️⃣ Configure Database
 
